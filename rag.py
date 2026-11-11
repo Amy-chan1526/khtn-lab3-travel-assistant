@@ -96,7 +96,7 @@ Answer:"""
         "stream": False
     }
 
-    response = requests.post(url, json=payload, timeout=30)
+    response = requests.post(url, json=payload, timeout=120)
     if response.status_code != 200:
         raise ConnectionError("Ollama text generation service unreachable.")
     
