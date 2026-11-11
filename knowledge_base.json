@@ -1,0 +1,98 @@
+[
+  {
+    "id": "G01",
+    "title": "Ben Thanh Market",
+    "text": "Ben Thanh Market is a major landmark in central Ho Chi Minh City. It features hundreds of stalls selling local souvenirs, garments, handicrafts, and authentic Vietnamese street food.",
+    "source": "Ho Chi Minh City Travel Guide 2026",
+    "category": "Market & Shopping",
+    "tags": ["market", "shopping", "food", "landmark"]
+  },
+  {
+    "id": "G02",
+    "title": "Notre-Dame Cathedral Basilica of Saigon",
+    "text": "Built by French colonists between 1863 and 1880, Notre-Dame Cathedral features distinct red bricks imported from Marseille and two 58-meter bell towers in Paris Square.",
+    "source": "Ho Chi Minh City Travel Guide 2026",
+    "category": "Architecture",
+    "tags": ["cathedral", "french architecture", "history", "landmark"]
+  },
+  {
+    "id": "G03",
+    "title": "Saigon Central Post Office",
+    "text": "Located right next to Notre-Dame Cathedral, the Saigon Central Post Office was designed with Gothic and Renaissance influences. It remains a fully functional post office.",
+    "source": "Ho Chi Minh City Travel Guide 2026",
+    "category": "Architecture",
+    "tags": ["post office", "architecture", "history", "check-in"]
+  },
+  {
+    "id": "G04",
+    "title": "War Remnants Museum",
+    "text": "The War Remnants Museum contains exhibits relating to the Vietnam War and the First Indochina War, displaying military equipment, photographs, and historical artifacts.",
+    "source": "Ho Chi Minh City Travel Guide 2026",
+    "category": "Museum",
+    "tags": ["museum", "history", "war", "exhibits"]
+  },
+  {
+    "id": "G05",
+    "title": "Independence Palace",
+    "text": "Also known as Reunification Palace, this historic site was the home and workplace of the President of South Vietnam during the Vietnam War. It features 1960s architecture and underground bunkers.",
+    "source": "Ho Chi Minh City Travel Guide 2026",
+    "category": "Historical Site",
+    "tags": ["palace", "history", "reunification", "landmark"]
+  },
+  {
+    "id": "G06",
+    "title": "Landmark 81",
+    "text": "Landmark 81 is the tallest skyscraper in Vietnam, located along the Saigon River in Binh Thanh District. It hosts a luxury mall, observation deck, hotel, and restaurants.",
+    "source": "Ho Chi Minh City Travel Guide 2026",
+    "category": "Architecture",
+    "tags": ["skyscraper", "viewpoint", "shopping", "modern"]
+  },
+  {
+    "id": "G07",
+    "title": "Bui Vien Walking Street",
+    "text": "Bui Vien Walking Street is the center of nightlife in Saigon, bustling with bars, pubs, live music venues, street performances, and food stalls every evening.",
+    "source": "Ho Chi Minh City Travel Guide 2026",
+    "category": "Nightlife",
+    "tags": ["nightlife", "bui vien", "bars", "street food"]
+  },
+  {
+    "id": "G08",
+    "title": "Saigon Pho (Southern Style)",
+    "text": "Saigon Pho features a sweeter broth compared to Northern Pho, served with flat rice noodles, fresh bean sprouts, basil, sawtooth herb, hoisin sauce, and chili sauce.",
+    "source": "Ho Chi Minh City Travel Guide 2026",
+    "category": "Cuisine",
+    "tags": ["pho", "cuisine", "food", "noodles"]
+  },
+  {
+    "id": "G09",
+    "title": "Nguyen Hue Walking Street",
+    "text": "A broad pedestrian boulevard extending from City Hall to the Saigon River. It is popular for evening strolls, street buskers, pop-up events, and surrounding cafe apartments.",
+    "source": "Ho Chi Minh City Travel Guide 2026",
+    "category": "Public Park",
+    "tags": ["walking street", "stroll", "events", "city center"]
+  },
+  {
+    "id": "G10",
+    "title": "Cu Chi Tunnels",
+    "text": "Located roughly 70 km northwest of central Saigon, the Cu Chi Tunnels are an extensive underground network used by Viet Cong soldiers during the war.",
+    "source": "Ho Chi Minh City Travel Guide 2026",
+    "category": "Historical Site",
+    "tags": ["tunnels", "cu chi", "history", "tour"]
+  },
+  {
+    "id": "G11",
+    "title": "Com Tam (Broken Rice)",
+    "text": "Com Tam is an iconic Saigon dish made of broken rice grains served with grilled pork chops (suon), steamed egg loaf (cha), shredded pork skin (bi), and fish sauce dip.",
+    "source": "Ho Chi Minh City Travel Guide 2026",
+    "category": "Cuisine",
+    "tags": ["com tam", "broken rice", "food", "specialty"]
+  },
+  {
+    "id": "G12",
+    "title": "Jade Emperor Pagoda",
+    "text": "Built in 1909 by the Chinese community, this Taoist pagoda features intricate woodcarvings, colorful statues, and incense-filled worship halls.",
+    "source": "Ho Chi Minh City Travel Guide 2026",
+    "category": "Culture & Temple",
+    "tags": ["pagoda", "temple", "culture", "taoist"]
+  }
+]
