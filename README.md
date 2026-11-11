@@ -33,11 +33,11 @@ streamlit run app.py
 | Question | Type | Expected ID | Retrieved IDs | Correct? | Failure Reason (if wrong) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `What ingredients are in Saigon Com Tam?` | Answerable | `[G11]` | `[G11]`, `[G08]`, `[G02]` | Yes | N/A |
-| `Where can I buy local souvenirs in Saigon?` | Answerable | `[G01]` | `[G01]` | Yes | N/A |
-| `What is special about the Saigon Notre Dame Cathedral?` | Answerable | `[G02]` | `[G02]` | Yes | N/A |
+| `Where can I buy local souvenirs in Saigon?` | Answerable | `[G01]` | `[G01]`, `[G07]`, `[G03]` | Yes | N/A |
+| `What is special about the Saigon Notre Dame Cathedral?` | Answerable | `[G02]` | `[G02]`, `[G03]`, `[G06]` | Yes | N/A |
 | `What style of architecture is the main post office in Saigon` | Paraphrase | `[G03]` | `[G03]` | Yes | N/A |
-| `How far is Vung Tau beach from Saigon` | Not in guide | None | None | Yes | Correctly refused ("I don't know") |
-| `Tell me about the construction year of the historic post office` | Paraphrase / Missing | `[G03]` | `[G03]` | No | Failed at Retrieval/Missing Data (Score 0.38 < threshold 0.45, text lacks exact year) |
+| `How far is Vung Tau beach from Saigon` | Not in guide | None | `[G10]`, `[G06]`, `[G07]` | Yes | Correctly refused ("I don't know", max score 0.4365 < threshold 0.45) |
+| `Tell me about the construction year of the historic post office` | Paraphrase / Missing | `[G03]` | `[G03]`, `[G12]`, `[G02]` | No | Failed at Retrieval/Missing Data (Score 0.3826 < threshold 0.45, text lacks exact year) |
 
 ## 4. Limitations & AI Tools Used
 
