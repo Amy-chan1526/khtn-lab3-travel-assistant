@@ -68,6 +68,7 @@ Once started, open the local URL shown in your terminal (typically `http://local
 - **Limitations:** Vector similarity relies on embedding thresholds. Ambiguous questions with generic keywords may retrieve lower-relevance documents.
 - **AI Tools Used:** ChatGPT / Gemini were used to help structure the code architecture, Streamlit UI callbacks, and format Markdown components.
 
-## 5. Demonstration Video Link
+## 5. Demonstration Video & Github Link 
 
 - **Demo Video URL:** https://drive.google.com/drive/u/0/folders/1nxtXrKF4MR_EW-NxAKOvPggEfiUZMgak
+- **Github:** https://github.com/Amy-chan1526/khtn-lab3-travel-assistant
