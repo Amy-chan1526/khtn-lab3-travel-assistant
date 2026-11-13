@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ```ini
 FIREBASE_API_KEY=your_firebase_api_key
-OLLAMA_BASE_URL=[https://your-pinggy-tunnel-url.pinggy.link](https://your-pinggy-tunnel-url.pinggy.link)
+OLLAMA_BASE_URL=https://your-pinggy-tunnel-url.pinggy.link
 ```
 
 ### Step 4: Launch the Streamlit App
@@ -70,4 +70,4 @@ Once started, open the local URL shown in your terminal (typically `http://local
 
 ## 5. Demonstration Video Link
 
-- **Demo Video URL:** [Insert Public Link to Video Here]
+- **Demo Video URL:** https://drive.google.com/drive/u/0/folders/1nxtXrKF4MR_EW-NxAKOvPggEfiUZMgak
